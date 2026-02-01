@@ -2,7 +2,7 @@
   <h1 align="center">Decision Safety </h1>
     <p align="center">
 <div align="center">
- 
+  
 ![Article](https://img.shields.io/badge/Article-Longform-informational)
 ![Topic](https://img.shields.io/badge/Topic-Analytics%20Engineering-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Decision%20Safety-purple)
